@@ -57,13 +57,3 @@ Sou Gabriel Soares Cambruzzi, tenho 21 anos e sou de Santa Catarina. Atualmente 
 />
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcambruzzi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
